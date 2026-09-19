@@ -1,0 +1,22 @@
+openai>=1.0.0
+python-dotenv>=1.0.0
+pycaw>=20230407
+comtypes>=1.2.0
+screen-brightness-control>=0.22.0
+faster-whisper>=1.0.0
+sounddevice>=0.4.6
+numpy>=1.24.0
+pynput>=1.7.6
+edge-tts>=6.1.9
+pygame-ce>=2.5.0
+openwakeword>=0.6.0
+pystray>=0.19.0
+Pillow>=10.0.0
+PySide6>=6.5.0
+
+# Tools de sistema (fase 1.2)
+pywin32>=306
+pyperclip>=1.8.2
+pyautogui>=0.9.54
+pytesseract>=0.3.10
+winotify>=1.1.0

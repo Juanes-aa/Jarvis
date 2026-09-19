@@ -1,0 +1,24 @@
+{
+  "active_tools": [
+    "abrir_app",
+    "responder_conversacional",
+    "subir_bajar_volumen",
+    "ajustar_brillo",
+    "ejecutar_comando",
+    "crear_archivo",
+    "crear_carpeta",
+    "mover_archivo",
+    "renombrar_archivo",
+    "minimizar_ventana_activa",
+    "cambiar_ventana",
+    "cerrar_ventana_activa",
+    "leer_portapapeles",
+    "escribir_portapapeles",
+    "tomar_captura",
+    "pausar_reproducir",
+    "siguiente_cancion",
+    "cancion_anterior",
+    "mostrar_notificacion"
+  ],
+  "file_management_root": "~/Jarvis"
+}

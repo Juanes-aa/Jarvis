@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Memoria de conversacion persistente
+memory/history.json
+
+# Scripts .bat generados (p.ej. autoarranque)
+*.bat
+
+# Logs generados en runtime
+logs/
